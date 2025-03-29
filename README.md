@@ -28,11 +28,11 @@ I'm a passionate developer focused on automation and system solutions.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <!-- Add more technology icons as needed -->
 </div>
 
 ---
@@ -44,18 +44,6 @@ I'm a passionate developer focused on automation and system solutions.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ex1d3r&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Exider's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ex1d3r&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### :rocket: My Projects:
-
-- [Backup System](https://github.com/Ex1d3r/Backupsystem) - Automated daily backup system for macOS with SSD connection checking
-- <!-- Add more projects as you create them -->
-
----
-
-### :writing_hand: Blog Posts:
-<!-- Will be updated with your blog posts in the future -->
 
 ---
 
