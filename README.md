@@ -5,9 +5,6 @@
   
   
   <div id="badges">
-    <a href="https://github.com/Ex1d3r">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-    </a>
     <a href="https://exider.tech">
       <img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
     </a>
