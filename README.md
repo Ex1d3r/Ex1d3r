@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/z8rEcJ6I0hiUM/giphy.gif" width="200"/>
   
-  <h1>#include &lt;Exider.h&gt;<br/><small>// Algorithm of Success</small></h1>
+  <h1>#include &lt;Exider.h&gt;<br/></h1>
   
   
   <div id="badges">
