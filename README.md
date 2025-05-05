@@ -10,7 +10,7 @@
 </div>
   
   
-  <div id="badges">
+  <div id="badges" align="center">
     <a href="https://exider.tech">
       <img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
     </a>
