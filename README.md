@@ -50,11 +50,11 @@ Hello! I'm an experienced Full-Stack Developer specializing in creating modern, 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=exider&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exider&layout=compact&theme=react&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ex1d3r&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ex1d3r&layout=compact&theme=react&hide_border=true" alt="Top Languages" height="170"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=exider&theme=react&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ex1d3r&theme=react&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 📫 Connect With Me
