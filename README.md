@@ -11,13 +11,13 @@
  |______||/\/\| |_____||_____/ |______||_|  \_\</pre>
 </div>
 
+<div align="center">
+
 ## 👨‍💻 About Me
 
 Hello! I'm an experienced Full-Stack Developer specializing in creating modern, scalable web applications. My passion for programming and continuous learning enables me to craft efficient and elegant solutions for complex problems.
 
 ## 🛠️ Tech Stack
-
-<div align="center">
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -32,34 +32,28 @@ Hello! I'm an experienced Full-Stack Developer specializing in creating modern, 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![InnoDB](https://img.shields.io/badge/InnoDB-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
-</div>
-
 ## 🌐 Languages
 
 - 🇷🇺 **Russian**: Native
-- 🇺🇦 **Ukrainian**: Native
 - 🇨🇿 **Czech**: Advanced
 - 🇬🇧 **English**: Advanced
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ex1d3r&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ex1d3r&layout=compact&theme=react&hide_border=true" alt="Top Languages" height="170"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ex1d3r&theme=react&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ## 📫 Connect With Me
 
-<div id="badges" align="center">
+<div id="badges">
   <a href="https://exider.tech">
     <img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
   </a>
@@ -73,6 +67,4 @@ Hello! I'm an experienced Full-Stack Developer specializing in creating modern, 
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=exider&style=flat-square&color=blue" alt="Profile views counter"/>
 </div>
