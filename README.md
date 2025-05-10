@@ -9,10 +9,6 @@
 
 <div align="center">
 
-## 👨‍💻 About Me
-
-Hello! I'm an experienced Full-Stack Developer specializing in creating modern, scalable web applications. My passion for programming and continuous learning enables me to craft efficient and elegant solutions for complex problems.
-
 ## 🛠️ Tech Stack
 
 ### Frontend
