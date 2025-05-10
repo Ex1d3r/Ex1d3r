@@ -35,9 +35,13 @@ Hello! I'm an experienced Full-Stack Developer specializing in creating modern, 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![InnoDB](https://img.shields.io/badge/InnoDB-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools & Others
+### System & DevOps
+![Unix/Linux](https://img.shields.io/badge/Unix_Based_Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Tools & Others
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
@@ -62,5 +66,4 @@ Hello! I'm an experienced Full-Stack Developer specializing in creating modern, 
 </div>
 
 ---
-
 </div>
