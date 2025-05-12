@@ -1,4 +1,3 @@
-# Tech Stack & Projects
 
 ## 🚀 Featured Projects
 
@@ -7,10 +6,10 @@
 
 Comprehensive invoicing and billing system for businesses with automated workflows, financial tracking, and client management.
 
-### 🎮 [SteamHours.tech](https://steamhours.tech)
+### 🎮 [steamhours.tech](https://steamhours.tech)
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white) ![Gaming](https://img.shields.io/badge/Gaming_Companion-5865F2?style=for-the-badge) ![Tracker](https://img.shields.io/badge/Time_Tracker-FF8200?style=for-the-badge)
 
-Advanced Steam companion tool that helps gamers track and optimize gameplay hours, manage game libraries, and enhance their gaming experience.
+Advanced Steam companion tool that helps gamers track and optimize gameplay hours, manage game libraries, and enhance gaming experience.
 
 ## 💻 Skills & Technologies
 
