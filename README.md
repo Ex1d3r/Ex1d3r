@@ -1,6 +1,3 @@
-
-## 🚀 Featured Projects
-
 ### 💼 [fakturace.site](https://fakturace.site)
 ![Billing](https://img.shields.io/badge/Billing_System-FF6B6B?style=for-the-badge) ![Invoicing](https://img.shields.io/badge/Invoicing-4ECB79?style=for-the-badge) ![Management](https://img.shields.io/badge/Business_Management-3D87FF?style=for-the-badge)
 
@@ -24,4 +21,3 @@ Advanced Steam companion tool that helps gamers track and optimize gameplay hour
 **Languages:** 🇷🇺 Russian (Native) | 🇨🇿 Czech (Advanced) | 🇬🇧 English (Advanced)
 
 **Contact:** [Website](https://exider.tech) | [Email](mailto:contact@exider.tech) | [Telegram](https://t.me/ex1d3r)
-```
