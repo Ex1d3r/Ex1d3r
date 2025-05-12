@@ -1,3 +1,19 @@
+# Tech Stack & Projects
+
+## 🚀 Featured Projects
+
+### 💼 [Fakturace.site](https://fakturace.site)
+![Billing](https://img.shields.io/badge/Billing_System-FF6B6B?style=for-the-badge) ![Invoicing](https://img.shields.io/badge/Invoicing-4ECB79?style=for-the-badge) ![Management](https://img.shields.io/badge/Business_Management-3D87FF?style=for-the-badge)
+
+Comprehensive invoicing and billing system for businesses with automated workflows, financial tracking, and client management.
+
+### 🎮 [SteamHours.tech](https://steamhours.tech)
+![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white) ![Gaming](https://img.shields.io/badge/Gaming_Companion-5865F2?style=for-the-badge) ![Tracker](https://img.shields.io/badge/Time_Tracker-FF8200?style=for-the-badge)
+
+Advanced Steam companion tool that helps gamers track and optimize gameplay hours, manage game libraries, and enhance their gaming experience.
+
+## 💻 Skills & Technologies
+
 **Frontend:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Backend:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -9,3 +25,4 @@
 **Languages:** 🇷🇺 Russian (Native) | 🇨🇿 Czech (Advanced) | 🇬🇧 English (Advanced)
 
 **Contact:** [Website](https://exider.tech) | [Email](mailto:contact@exider.tech) | [Telegram](https://t.me/ex1d3r)
+```
